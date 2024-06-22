@@ -1,0 +1,26 @@
+﻿input {
+            background-color:#f1f1f1;
+            border:2px solid #aaa;
+                    }
+p {
+            color:#b200ff;
+                    }
+table {
+          border: 1px solid #333;
+      }
+table th {
+          background-color:#f1f1f1;
+          color:#333;
+      }
+table tbody tr:hover {
+          background-color:#b200ff;
+          font-weight:bold;
+      }
+body {
+          font: 15px arial;
+      }
+div {
+width:20%;
+margin:auto;
+align-content:center;
+}
